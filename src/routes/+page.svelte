@@ -1,10 +1,13 @@
 <script>
-	import Navbar from '../components/navbar.svelte';
+	import Works from './works/+page.svelte';
+	import About from './about/+page.svelte';
 </script>
 
 <svelte:head>
 	<title>Home</title>
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
-
-<Navbar />
+<main>
+	<About />
+	<Works />
+</main>
