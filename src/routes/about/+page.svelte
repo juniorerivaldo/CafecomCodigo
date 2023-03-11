@@ -21,10 +21,15 @@
 						/>
 					</div>
 					<div class="md:7/12 lg:w-6/12">
-						<h2 class="text-2xl text-gray-900 font-bold md:text-4xl">
+						<h2 class="text-2xl font-bold md:text-4xl">
 							Olá, <br />
 							Sou Erivaldo ! 👋🏻
 						</h2>
+						<div class="mt-2">
+							<span class="inline-block w-40 h-1 rounded-full bg-blue-500" />
+							<span class="inline-block w-3 h-1 ml-1 rounded-full bg-blue-500" />
+							<span class="inline-block w-1 h-1 ml-1 rounded-full bg-blue-500" />
+						</div>
 						<p class="mt-6 text-2xl text-gray-600">
 							Erivaldo Junior é um desenvolvedor freelancer que faz parte da equipe da Café com
 							Código. Com vasta experiência em desenvolvimento de páginas e sistemas com tecnologias
