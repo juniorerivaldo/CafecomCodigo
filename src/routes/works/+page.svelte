@@ -972,7 +972,7 @@
 		</div>
 	</div>
 	<div class="divider" />
-	<div class="w-full  px-4">
+	<div class="w-1/2 mx-auto px-4 flex">
 		<div
 			class="
    bg-white
