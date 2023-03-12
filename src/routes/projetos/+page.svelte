@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>Clientes</title>
+	<title>Projetos</title>
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 

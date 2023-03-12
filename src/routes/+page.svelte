@@ -30,7 +30,7 @@
 								valores.
 							</p>
 							<div class="py-5 flex-auto">
-								<a href="/works"
+								<a href="/servicos"
 									><button class="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg">Saiba mais</button></a
 								>
 							</div>

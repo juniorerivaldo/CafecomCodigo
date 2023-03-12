@@ -39,14 +39,14 @@
 				<li aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
 					<a href="/">Home</a>
 				</li>
-				<li aria-current={$page.url.pathname === '/about' ? 'page' : undefined}>
-					<a href="/about">Sobre</a>
+				<li aria-current={$page.url.pathname === '/sobre' ? 'page' : undefined}>
+					<a href="/sobre">Sobre</a>
 				</li>
-				<li aria-current={$page.url.pathname.startsWith('/works') ? 'page' : undefined}>
-					<a href="/works">Serviços</a>
+				<li aria-current={$page.url.pathname.startsWith('/servicos') ? 'page' : undefined}>
+					<a href="/servicos">Serviços</a>
 				</li>
-				<li aria-current={$page.url.pathname.startsWith('/customers') ? 'page' : undefined}>
-					<a href="/customers">Clientes</a>
+				<li aria-current={$page.url.pathname.startsWith('/projetos') ? 'page' : undefined}>
+					<a href="/projetos">Projetos</a>
 				</li>
 				<!-- {#if userProfileValue.isLoggedIn === false}
             <li><a href="/Login">Login</a></li>
@@ -65,14 +65,14 @@
 			<li aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
 				<a href="/">Home</a>
 			</li>
-			<li aria-current={$page.url.pathname === '/about' ? 'page' : undefined}>
-				<a href="/about">Sobre</a>
+			<li aria-current={$page.url.pathname === '/sobre' ? 'page' : undefined}>
+				<a href="/sobre">Sobre</a>
 			</li>
-			<li aria-current={$page.url.pathname.startsWith('/works') ? 'page' : undefined}>
-				<a href="/works">Serviços</a>
+			<li aria-current={$page.url.pathname.startsWith('/servicos') ? 'page' : undefined}>
+				<a href="/servicos">Serviços</a>
 			</li>
-			<li aria-current={$page.url.pathname.startsWith('/customers') ? 'page' : undefined}>
-				<a href="/customers">Clientes</a>
+			<li aria-current={$page.url.pathname.startsWith('/projetos') ? 'page' : undefined}>
+				<a href="/projetos">Projetos</a>
 			</li>
 			<!-- {#if userProfileValue.isLoggedIn === false}
           <li><a href="/Login">Login</a></li>
