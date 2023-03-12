@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>Serviços</title>
+	<meta name="Serviços" content="Serviços" />
+</svelte:head>
 <div class="hero min-h-screen bg-base-200">
 	<div class="hero-content flex-col lg:flex-row">
 		<section class="bg-base-200 py-3">
