@@ -51,7 +51,7 @@
 									visualização em dispositivos móveis.
 								</p>
 
-								<p class="mt-3">O valor para este modelo é de R$ 300,00 e o pagamento é único.</p>
+								<p class="mt-3">O valor para este modelo é de R$ 450,00 e o pagamento é único.</p>
 							</div>
 						</div>
 
@@ -83,7 +83,7 @@
 									profissional e também o Google Maps. As cores são customizáveis e a responsividade
 									já está inclusa, pensando na visualização em dispositivos móveis.
 								</p>
-								<p class="mt-3">O valor para este modelo é de R$ 400,00 e o pagamento é único.</p>
+								<p class="mt-3">O valor para este modelo é de R$ 550,00 e o pagamento é único.</p>
 							</div>
 						</div>
 
@@ -117,7 +117,7 @@
 									mesmas. As cores são customizáveis e a responsividade já está inclusa, pensando na
 									visualização em dispositivos móveis.
 								</p>
-								<p class="mt-3">O valor para este modelo é de R$ 450,00 e o pagamento é único.</p>
+								<p class="mt-3">O valor para este modelo é de R$ 650,00 e o pagamento é único.</p>
 							</div>
 						</div>
 					</div>
