@@ -142,7 +142,7 @@
 						<p class="mt-3">
 							Para contratar os nossos serviços, é necessário que o cliente já possua uma hospedagem
 							para manter o site e um domínio próprio. Caso seja necessário, podemos configurar uma
-							hospedagem adicionando o valor de R$ 30,00 mensal para mantê-la. O valor do domínio do
+							hospedagem adicionando o valor de R$ 45,00 mensal para mantê-la. O valor do domínio do
 							site é a confirmar, dependendo do nome escolhido. Caso o cliente contrate com
 							hospedagem, disponibilizamos a configuração de um e-mail profissional para o mesmo.
 						</p>
