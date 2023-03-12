@@ -48,6 +48,9 @@
 				<li aria-current={$page.url.pathname.startsWith('/projetos') ? 'page' : undefined}>
 					<a href="/projetos">Projetos</a>
 				</li>
+				<li aria-current={$page.url.pathname.startsWith('/contato') ? 'page' : undefined}>
+					<a href="/contato">Contato</a>
+				</li>
 				<!-- {#if userProfileValue.isLoggedIn === false}
             <li><a href="/Login">Login</a></li>
           {:else if userProfileValue.isLoggedIn === true} -->
@@ -73,6 +76,9 @@
 			</li>
 			<li aria-current={$page.url.pathname.startsWith('/projetos') ? 'page' : undefined}>
 				<a href="/projetos">Projetos</a>
+			</li>
+			<li aria-current={$page.url.pathname.startsWith('/contato') ? 'page' : undefined}>
+				<a href="/contato">Contato</a>
 			</li>
 			<!-- {#if userProfileValue.isLoggedIn === false}
           <li><a href="/Login">Login</a></li>
