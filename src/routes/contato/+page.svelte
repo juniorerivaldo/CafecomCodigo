@@ -72,19 +72,17 @@
 
 							<h2 class="mt-4 text-lg font-medium text-gray-800 ">Telefone</h2>
 							<p class="mt-2 text-gray-600 ">
-								Pode me ligar ,<br /> estou disponível no número abaixo para contato.
+								Entre em contato direto pelo Whatsapp ,<br /> é só clicar no botão abaixo
 							</p>
-							<a href="tel:+5541991848458" class="py-3 link link-info">41 99184-8458</a>
+							<br>
+							<Whatsapp />
 						</div>
 					</div>
-				
 				</div>
 			</div>
 			<div class="flex justify-center">
-				<Whatsapp/>
-
-				</div>
+				
+			</div>
 		</section>
-		
 	</div>
 </div>

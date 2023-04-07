@@ -1,5 +1,5 @@
 <script>
-    import imgUrl from "../assets/logo.png";
+	import imgUrl from '../assets/logo.png';
 	import { page } from '$app/stores';
 </script>
 
