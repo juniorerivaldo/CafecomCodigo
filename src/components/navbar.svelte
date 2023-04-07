@@ -1,14 +1,5 @@
-<!-- <script>
-    import { userProfile } from "../lib/store.js";
-    import imgUrl from "../assets/logo.jpeg";
-  
-    let userProfileValue;
-  
-    userProfile.subscribe((value) => {
-      userProfileValue = value;
-    });
-  </script> -->
 <script>
+    import imgUrl from "../assets/logo.png";
 	import { page } from '$app/stores';
 </script>
 
@@ -45,9 +36,9 @@
 				<li aria-current={$page.url.pathname.startsWith('/servicos') ? 'page' : undefined}>
 					<a href="/servicos">Serviços</a>
 				</li>
-				<li aria-current={$page.url.pathname.startsWith('/projetos') ? 'page' : undefined}>
+				<!-- <li aria-current={$page.url.pathname.startsWith('/projetos') ? 'page' : undefined}>
 					<a href="/projetos">Projetos</a>
-				</li>
+				</li> -->
 				<li aria-current={$page.url.pathname.startsWith('/contato') ? 'page' : undefined}>
 					<a href="/contato">Contato</a>
 				</li>
@@ -59,7 +50,7 @@
 			</ul>
 		</div>
 		<a href="/">
-			<!-- <img class="mask mask-circle" src={imgUrl} width="50" /> -->
+			<img class="mask mask-circle" src={imgUrl} width="50" />
 		</a>
 	</div>
 
@@ -74,9 +65,9 @@
 			<li aria-current={$page.url.pathname.startsWith('/servicos') ? 'page' : undefined}>
 				<a href="/servicos">Serviços</a>
 			</li>
-			<li aria-current={$page.url.pathname.startsWith('/projetos') ? 'page' : undefined}>
+			<!-- <li aria-current={$page.url.pathname.startsWith('/projetos') ? 'page' : undefined}>
 				<a href="/projetos">Projetos</a>
-			</li>
+			</li> -->
 			<li aria-current={$page.url.pathname.startsWith('/contato') ? 'page' : undefined}>
 				<a href="/contato">Contato</a>
 			</li>
