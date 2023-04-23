@@ -1,7 +1,14 @@
 <svelte:head>
-	<title>Serviços</title>
-	<meta name="Serviços" content="Serviços" />
+	<title
+		>Serviços - Landing Page, Site Institucional e Blog | Destaque-se no mercado digital com nossos
+		modelos de site</title
+	>
+	<meta
+		name="description"
+		content="Oferecemos serviços de criação de Landing Page, Site Institucional e Blog para ajudar você ou sua empresa a se destacar no mercado digital. Conheça nossos modelos de site e escolha o que melhor atende às suas necessidades."
+	/>
 </svelte:head>
+
 <div class="hero min-h-screen bg-base-200">
 	<div class="hero-content flex-col lg:flex-row">
 		<section class="bg-base-200 py-3">

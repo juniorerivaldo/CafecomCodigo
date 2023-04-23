@@ -12,14 +12,14 @@ const config = {
 			precompress: false,
 			strict: false
 		}),
-		inlineStyleThreshold: Infinity
+		// inlineStyleThreshold: Infinity
 	},
-	seo: {
-		title: 'Cafe com Codigo',
-		description:
-			'Empresa que cria sites para profissionais da saúde, criamos landingpage, site institucional, site completo com blog, robôs para atendimento whatsapp',
-		keywords: 'criar site, site institucional, landingpage, blog, robô whatsapp'
-	},
+	// seo: {
+	// 	title: 'Cafe com Codigo',
+	// 	description:
+	// 		'Empresa que cria sites para profissionais da saúde, criamos landingpage, site institucional, site completo com blog, robôs para atendimento whatsapp',
+	// 	keywords: 'criar site, site institucional, landingpage, blog, robô whatsapp'
+	// },
 	preprocess: vitePreprocess()
 };
 

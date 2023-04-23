@@ -3,8 +3,13 @@
 </script>
 
 <svelte:head>
-	<title>Contato</title>
-	<meta name="Contato" content="Contato comigo" />
+	<title
+		>Entre em Contato | Informações de Contato do Especialista em Desenvolvimento de Sites</title
+	>
+	<meta
+		name="description"
+		content="Entre em contato com o especialista em desenvolvimento de sites para Landing Page, Site Institucional e Blog. Informe-se sobre nossos serviços e solicite um orçamento. Estamos prontos para ajudá-lo a se destacar no mercado digital."
+	/>
 </svelte:head>
 
 <div class="hero min-h-screen bg-base-200">
@@ -74,15 +79,13 @@
 							<p class="mt-2 text-gray-600 ">
 								Entre em contato direto pelo Whatsapp ,<br /> é só clicar no botão abaixo
 							</p>
-							<br>
+							<br />
 							<Whatsapp />
 						</div>
 					</div>
 				</div>
 			</div>
-			<div class="flex justify-center">
-				
-			</div>
+			<div class="flex justify-center" />
 		</section>
 	</div>
 </div>

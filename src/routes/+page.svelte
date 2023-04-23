@@ -1,11 +1,10 @@
 <script>
 	import imgUrl from '../assets/hometemplate.jpg';
 </script>
-
-<svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
-</svelte:head>
+<svelt:head>
+	<title>Conheça nossos modelos de site: Landing Page, Site Institucional e Blog</title>
+	<meta name="description" content="Descubra os três modelos de sites oferecidos para profissionais e empresas que desejam se destacar no mercado digital e alcançar mais clientes: Landing Page, Site Institucional e Blog. Saiba mais sobre suas características e valores.">
+</svelt:head>
 <main>
 	<div class="hero min-h-screen bg-base-200">
 		<div class="hero-content flex-col lg:flex-row">
