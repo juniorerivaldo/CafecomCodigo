@@ -27,10 +27,10 @@
 				tabindex="0"
 				class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52"
 			>
-				<li aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
-					<a href="/">Home</a>
+				<li aria-current={$page.url.pathname.startsWith('/') ? 'page' : undefined}>
+					<a data-sveltekit-reload href="/">Inicio</a>
 				</li>
-				<li aria-current={$page.url.pathname === '/sobre' ? 'page' : undefined}>
+				<li aria-current={$page.url.pathname.startsWith('/sobre') ? 'page' : undefined}>
 					<a href="/sobre">Sobre</a>
 				</li>
 				<li aria-current={$page.url.pathname.startsWith('/servicos') ? 'page' : undefined}>
@@ -57,9 +57,9 @@
 	<div class="navbar-center hidden lg:flex ">
 		<ul class="menu menu-horizontal p-0">
 			<li aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
-				<a href="/">Home</a>
+				<a data-sveltekit-reload href="/">Home</a>
 			</li>
-			<li aria-current={$page.url.pathname === '/sobre' ? 'page' : undefined}>
+			<li aria-current={$page.url.pathname.startsWith('/sobre') ? 'page' : undefined}>
 				<a href="/sobre">Sobre</a>
 			</li>
 			<li aria-current={$page.url.pathname.startsWith('/servicos') ? 'page' : undefined}>

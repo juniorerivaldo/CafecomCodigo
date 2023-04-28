@@ -11,7 +11,7 @@
 			<div class="container mx-auto py-9 md:py-12 lg:py-24">
 				<div class="flex flex-col lg:flex-row justify-center items-strech mx-4">
 					<div class="lg:w-6/12 flex justify-center items-center">
-						<div>
+						<div class="py-3 mt-3">
 							<h1 class="text-4xl md:text-5xl xl:text-6xl font-semibold w-7/12">
 								Porquê adquirir um site ?
 							</h1>
