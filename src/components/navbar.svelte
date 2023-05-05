@@ -27,18 +27,17 @@
 				tabindex="0"
 				class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52"
 			>
-				<li aria-current={$page.url.pathname.startsWith('/') ? 'page' : undefined}>
-					<a data-sveltekit-reload href="/">Inicio</a>
-				</li>
+				<li aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
+					<a href="/">Inicio</a>
 				<li aria-current={$page.url.pathname.startsWith('/sobre') ? 'page' : undefined}>
 					<a href="/sobre">Sobre</a>
 				</li>
 				<li aria-current={$page.url.pathname.startsWith('/servicos') ? 'page' : undefined}>
 					<a href="/servicos">Serviços</a>
 				</li>
-				<!-- <li aria-current={$page.url.pathname.startsWith('/projetos') ? 'page' : undefined}>
+				<li aria-current={$page.url.pathname.startsWith('/projetos') ? 'page' : undefined}>
 					<a href="/projetos">Projetos</a>
-				</li> -->
+				</li>
 				<li aria-current={$page.url.pathname.startsWith('/contato') ? 'page' : undefined}>
 					<a href="/contato">Contato</a>
 				</li>
@@ -57,17 +56,16 @@
 	<div class="navbar-center hidden lg:flex ">
 		<ul class="menu menu-horizontal p-0">
 			<li aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
-				<a data-sveltekit-reload href="/">Home</a>
-			</li>
+					<a href="/">Inicio</a>
 			<li aria-current={$page.url.pathname.startsWith('/sobre') ? 'page' : undefined}>
 				<a href="/sobre">Sobre</a>
 			</li>
 			<li aria-current={$page.url.pathname.startsWith('/servicos') ? 'page' : undefined}>
 				<a href="/servicos">Serviços</a>
 			</li>
-			<!-- <li aria-current={$page.url.pathname.startsWith('/projetos') ? 'page' : undefined}>
+			<li aria-current={$page.url.pathname.startsWith('/projetos') ? 'page' : undefined}>
 				<a href="/projetos">Projetos</a>
-			</li> -->
+			</li>
 			<li aria-current={$page.url.pathname.startsWith('/contato') ? 'page' : undefined}>
 				<a href="/contato">Contato</a>
 			</li>

@@ -85,7 +85,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="flex justify-center" />
+			<!-- <div class="flex justify-center" /> -->
 		</section>
 	</div>
 </div>
