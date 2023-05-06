@@ -5,7 +5,9 @@
 
 <svelte:head>
 	<title>Projetos</title>
-	<meta name="description" content="Svelte demo app" />
+	<meta name="description" content="Projetos" />
+	<link rel="canonical" href="https://cafecomcodigo.com.br/projetos" />
+
 </svelte:head>
 
 <div class="hero min-h-screen bg-base-200">

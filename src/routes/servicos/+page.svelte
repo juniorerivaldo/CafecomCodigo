@@ -7,6 +7,8 @@
 		name="description"
 		content="Oferecemos serviços de criação de Landing Page, Site Institucional e Blog para ajudar você ou sua empresa a se destacar no mercado digital. Conheça nossos modelos de site e escolha o que melhor atende às suas necessidades."
 	/>
+	<link rel="canonical" href="https://cafecomcodigo.com.br/servicos" />
+
 </svelte:head>
 
 <div class="hero min-h-screen bg-base-200">

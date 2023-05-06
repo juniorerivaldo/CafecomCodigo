@@ -10,6 +10,8 @@
 		name="description"
 		content="Entre em contato com o especialista em desenvolvimento de sites para Landing Page, Site Institucional e Blog. Informe-se sobre nossos serviços e solicite um orçamento. Estamos prontos para ajudá-lo a se destacar no mercado digital."
 	/>
+	<link rel="canonical" href="https://cafecomcodigo.com.br/contato" />
+
 </svelte:head>
 
 <div class="hero min-h-screen bg-base-200">

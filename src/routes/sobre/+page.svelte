@@ -11,6 +11,8 @@
 		name="description"
 		content="Com vasta experiência em desenvolvimento de páginas e sistemas com tecnologias atuais, este especialista oferece projetos personalizados de Landing Page, Site Institucional e Blog voltados para profissionais da saúde e outras ocupações. Saiba mais!"
 	/>
+	<link rel="canonical" href="https://cafecomcodigo.com.br/sobre" />
+
 </svelte:head>
 
 <div class="hero min-h-screen bg-base-200">
