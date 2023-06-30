@@ -1,7 +1,6 @@
 <svelte:head>
 	<title
-		>Serviços - Landing Page, Site Institucional e Blog | Destaque-se no mercado digital com nossos
-		modelos de site</title
+		>Desenvolvimento de Sites - Criação de Sites Profissionais</title
 	>
 	<meta
 		name="description"

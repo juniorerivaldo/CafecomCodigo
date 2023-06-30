@@ -4,8 +4,7 @@
 
 <svelte:head>
 	<title
-		>Desenvolvimento de páginas e sistemas com tecnologias atuais | Especializado em Landing Page,
-		Site Institucional e Blog para profissionais da saúde e outras ocupações</title
+		>Desenvolvimento de Sites - Criação de Sites Profissionais</title
 	>
 	<meta
 		name="description"

@@ -3,7 +3,7 @@
 </script>
 
 <svelt:head>
-	<title>Por que adquirir um site? - Café com Código</title>
+	<title>Desenvolvimento de Sites - Criação de Sites Profissionais</title>
 	<meta
 		name="description"
 		content="Descubra os três modelos de sites oferecidos para profissionais e empresas que desejam se destacar no mercado digital e alcançar mais clientes: Landing Page, Site Institucional e Blog. Saiba mais sobre suas características e valores."
